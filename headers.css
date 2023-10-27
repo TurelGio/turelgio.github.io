@@ -33,6 +33,6 @@
 
 /* On smaller screens, where height is less than 450px, change the style of the sidebar (less padding and a smaller font size) */
 @media screen and (max-height: 450px) {
-  .sidenav {padding-top: 15px;}
-  .sidenav a {font-size: 18px;}
+  .sidenavigation {padding-top: 15px;}
+  .sidenavigation a {font-size: 18px;}
 }
